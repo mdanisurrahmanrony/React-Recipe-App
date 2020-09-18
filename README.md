@@ -1,3 +1,9 @@
+## React Recipe App
+
+This is a food recipe application created using Recipe Search API from https://developer.edamam.com/edamam-docs-recipe-api.
+
+## React Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
